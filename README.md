@@ -2,10 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuddhav-brai%2Fuddhav-brai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/uddhavst/)](https://www.instagram.com/uddhavst)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:uddhavbhattarai@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-brai/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/uddhav._.brai/)](https://www.instagram.com/uddhavst)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:uddhavbhattarai33@gmail.com)
 [![Github](https://img.shields.io/github/followers/uddhav-brai?label=Follow&style=social)](https://github.com/uddhav-brai)
 
 I’m a dedicated full-stack developer with a strong background in building dynamic, high-performance web applications using the MERN stack. My journey in web development began with a fascination for creating seamless user experiences and efficient back-end solutions. Since then, I've honed my skills in MongoDB, Express, React, and Node.js, continuously exploring new technologies and frameworks to stay ahead in the fast-evolving tech landscape.
